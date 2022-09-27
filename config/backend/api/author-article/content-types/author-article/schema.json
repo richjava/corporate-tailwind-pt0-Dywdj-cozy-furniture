@@ -1,0 +1,1 @@
+{"kind":"singleType","collectionName":"author_article","info":{"singularName":"author-article","pluralName":"author-articles","displayName":"Author Article"},"options":{"draftAndPublish":true},"pluginOptions":{},"attributes":{"contentSections":{"type":"dynamiczone","components":["sections.author-article"]}}}

@@ -1,0 +1,1 @@
+{"kind":"singleType","collectionName":"home","info":{"singularName":"home","pluralName":"homes","displayName":"Home"},"options":{"draftAndPublish":true},"pluginOptions":{},"attributes":{"contentSections":{"type":"dynamiczone","components":["head.home-seo","sections.main-landing","sections.features-list","sections.benefits-list","sections.about-teaser"]}}}
